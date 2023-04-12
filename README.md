@@ -1,8 +1,7 @@
 # Sistema_de_IA_Basica
  sistema de IA basico para unity 2D
 
- El ejecutable se encuentra en Sistema_de_IA/Assets/Sistema de IA/Juego
- La documentación se enceuntra en Sistema_de_IA/Assets/Sistema de IA/Documentacion
+ El ejecutable es la carpeta de Game IA system al igual que ahi esta la docuemntacion.
 
  Si hay errores en el proyecto una muy sincera disculap, ya que hice el juego unica y exclusivamente con investigación en youtube y solo con eso, además, cabe aclarar, que soy ilustrador, no programador :)
  
